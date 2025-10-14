@@ -1,0 +1,21 @@
+id,name,age,city,score
+1,User_1,56,Los Angeles,86
+2,User_2,46,Houston,56
+3,User_3,32,Phoenix,70
+4,User_4,25,New York,58
+5,User_5,38,Houston,88
+6,User_6,56,Los Angeles,67
+7,User_7,36,Phoenix,53
+8,User_8,40,Houston,74
+9,User_9,28,New York,63
+10,User_10,28,New York,99
+11,User_11,41,Chicago,58
+12,User_12,53,Chicago,75
+13,User_13,57,Los Angeles,51
+14,User_14,41,Houston,69
+15,User_15,20,Houston,77
+16,User_16,39,Chicago,96
+17,User_17,19,Houston,56
+18,User_18,41,Houston,93
+19,User_19,47,New York,57
+20,User_20,55,Chicago,96
